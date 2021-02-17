@@ -1,5 +1,7 @@
 # design-methods-toolbox
 
+![Design Methods Toolbox](https://user-images.githubusercontent.com/1507828/108275854-2d77dc00-7134-11eb-9d08-ab1162d786e9.png)
+
 **A resource for builders and doers who want to design with intention**
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5341d609-6d42-4c1b-b799-08e1f5134d9b/deploy-status)](https://app.netlify.com/sites/designmethodstoolbox/deploys)
