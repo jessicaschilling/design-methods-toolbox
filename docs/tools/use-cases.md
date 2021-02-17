@@ -9,13 +9,15 @@ meta:
 
 # Use Cases
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Empathize
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Empathize
 
+::: tip IN BRIEF
 **Time commitment:** 5-15 minutes per story  
 **Difficulty:** Easy  
 **Materials needed:** Meeting space (physical or virtual), whiteboard and stickies (physical or virtual)  
 **Who should participate:** Users, user experience designers, product/project owners  
 **Best for:** Breaking larger needs or issues down into smaller, more discrete ones in order to sort/prioritize by user type, user goal, or other parameters
+:::
 
 ## About this tool
 

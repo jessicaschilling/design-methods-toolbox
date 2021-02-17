@@ -9,13 +9,15 @@ meta:
 
 # Business Model Canvas
 
-### _Phase:_ 🎨  Problem shaping   \|   _Focus:_ Converge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Converge
 
+::: tip IN BRIEF
 **Time commitment:** 2-3 hours  
 **Difficulty:** Moderate  
 **Materials needed:** Meeting space (physical or virtual), whiteboard and stickies (physical or virtual), participants from a variety of technical and cultural perspectives (the more of these, the more useful), [business model canvas worksheets](https://canvanizer.com/downloads/business_model_canvas_poster.pdf)  
 **Who should participate:** User experience designers, product/project owners, community specialists  
 **Best for:** Keeping the business model or product-market fit front and center when aligning on potential solutions
+:::
 
 ## About this tool
 

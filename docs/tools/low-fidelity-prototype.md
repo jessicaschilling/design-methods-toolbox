@@ -9,13 +9,15 @@ meta:
 
 # Low Fidelity Prototype
 
-### _Phase:_ 🛠️  Problem solving   \|   _Focus:_ Prototype
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Prototype
 
+::: tip IN BRIEF
 **Time commitment:** 1 or more days, depending on complexity of prototype  
 **Difficulty:** Moderate  
 **Materials needed:** Prototyping tools (Sketch, InVision, code IDE, pen, pencil, potato stamp, whatever), feedback forum (physical or virtual)  
 **Who should participate:** User experience designers, product/project owners, developers  
 **Best for:** Converting agreed-upon directions for solutions into a "minimum believable product" that can be tested with users before moving to higher-fidelity prototyping
+:::
 
 ## About this tool
 

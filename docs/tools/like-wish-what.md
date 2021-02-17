@@ -9,13 +9,15 @@ meta:
 
 # I Like, I Wish, What If
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Empathize
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Empathize
 
+::: tip IN BRIEF
 **Time commitment:** A few hours to one day  
 **Difficulty:** Easy (though recruiting users may be more difficult)  
 **Materials needed:** Users (or internal stakeholders), a meeting place (physical or virtual), and physical or virtual versions of pens and multi-colored stickies  
 **Who should participate:** Users, user experience designers, product/project owners, developers, community specialists  
 **Best for:** Quick, open-format focused discussion on user pain points, desires, and off-the-cuff solutions
+:::
 
 ## About this tool
 

@@ -9,13 +9,15 @@ meta:
 
 # Moderated Testing
 
-### _Phase:_ 🛠️  Problem solving   \|   _Focus:_ Test
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Test
 
+::: tip IN BRIEF
 **Time commitment:** Varies widely according to test method, but always more time than unmoderated testing  
 **Difficulty:** Moderate/difficult  
 **Materials needed:** Goals for outcome, moderator guide, users to interview, location (physical or virtual), interviewer, notetaker, notetaking tools  
 **Who should participate:** User experience designers, product/project owners, community specialists  
 **Best for:** Gaining in-depth insights about a solution's effectiveness that cannot be gathered through unmoderated or passive/quantitative methods
+:::
 
 "Have the mindset of testing to learn, not testing to validate." Brendan Boyle, IDEO
 

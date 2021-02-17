@@ -9,13 +9,15 @@ meta:
 
 # Resource flow
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Empathize
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Empathize
 
+::: tip IN BRIEF
 **Time commitment:** 1 hour  
 **Difficulty:** Easy (but finding users to interview can up the difficulty)  
 **Materials needed:** Users to interview, meeting space (physical or virtual), whiteboard and stickies (physical or virtual)  
 **Who should participate:** Users, user experience designers, product/project owners, developers  
 **Best for:** Understanding how a user or group of user "spends" data, time, or any other valuable asset.
+:::
 
 ## About this tool
 

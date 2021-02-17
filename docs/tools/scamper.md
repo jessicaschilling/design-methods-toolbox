@@ -9,13 +9,15 @@ meta:
 
 # Scamper
 
-### _Phase:_ 🎨  Problem shaping   \|   _Focus:_ Diverge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Diverge
 
+::: tip IN BRIEF
 **Time commitment:** 1-2 hours  
 **Difficulty:** Moderate  
 **Materials needed:** Meeting space (physical or virtual), whiteboard and stickies (physical or virtual), participants from a variety of technical and cultural perspectives (the more of these, the more useful)  
 **Who should participate:** User experience designers, visual designers, product/project owners, community specialists, developers  
 **Best for:** Un-sticking challenges at an impasse through a multi-angled approach
+:::
 
 ## About this tool
 

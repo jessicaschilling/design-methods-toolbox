@@ -9,13 +9,15 @@ meta:
 
 # Primary Research
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Landscape
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Landscape
 
+::: tip IN BRIEF
 **Time commitment:** Varying according to scope of research needed, but very time-intensive due to needs of interviewing  
 **Difficulty:** Moderate  
 **Materials needed:** Goals for outcome, interview guide, users to interview, location (physical or virtual), interviewer, notetaker, notetaking tools  
 **Who should participate:** User experience designers, developers, project/product owners, users, commmunity specialists  
 **Best for:** In-depth insights on the overall landscape of solutions (or lack thereof) from the user's perspective
+:::
 
 ## About this tool
 

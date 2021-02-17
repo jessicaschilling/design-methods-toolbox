@@ -47,41 +47,60 @@ module.exports = {
         collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          '/tools/a-b-test',
-          '/tools/analytics',
-          '/tools/brainstorming',
-          '/tools/business-model-canvas',
-          '/tools/card-sorting',
-          '/tools/co-creation',
-          '/tools/collating-clustering-voting',
-          '/tools/content-audit',
-          '/tools/crazy-eights',
-          '/tools/empathy-interview',
-          '/tools/empathy-map',
-          '/tools/five-whys',
-          '/tools/heuristic-evaluation',
-          '/tools/high-fidelity-prototype',
-          '/tools/how-might-we',
-          '/tools/insight-statements',
-          '/tools/journey-map',
-          '/tools/like-wish-what',
-          '/tools/low-fidelity-prototype',
-          '/tools/mind-map',
-          '/tools/moderated-testing',
-          '/tools/personas',
-          '/tools/primary-research',
-          '/tools/principle-definition',
-          '/tools/problem-framing-reframing',
-          '/tools/resource-flow',
-          '/tools/scamper',
-          '/tools/secondary-research',
-          '/tools/sitemap',
-          '/tools/solution-definition',
-          '/tools/sponsor-users',
-          '/tools/storyboard',
-          '/tools/tree-testing',
-          '/tools/unmoderated-testing',
-          '/tools/use-cases',
+          {
+            title: 'PROBLEM SEEKING',   // required
+            sidebarDepth: 1,    // optional, defaults to 1
+            children: [
+              '/tools/content-audit',
+              '/tools/empathy-interview',
+              '/tools/empathy-map',
+              '/tools/heuristic-evaluation',
+              '/tools/journey-map',
+              '/tools/like-wish-what',
+              '/tools/mind-map',
+              '/tools/personas',
+              '/tools/primary-research',
+              '/tools/resource-flow',
+              '/tools/secondary-research',
+              '/tools/sitemap',
+              '/tools/use-cases',
+            ]
+          },
+          {
+            title: 'PROBLEM SHAPING',   // required
+            sidebarDepth: 1,    // optional, defaults to 1
+            children: [
+              '/tools/brainstorming',
+              '/tools/business-model-canvas',
+              '/tools/co-creation',
+              '/tools/collating-clustering-voting',
+              '/tools/crazy-eights',
+              '/tools/five-whys',
+              '/tools/how-might-we',
+              '/tools/insight-statements',
+              '/tools/moderated-testing',
+              '/tools/principle-definition',
+              '/tools/problem-framing-reframing',
+              '/tools/scamper',
+              '/tools/solution-definition',
+              '/tools/storyboard',
+            ]
+          },
+          {
+            title: 'PROBLEM SOLVING',   // required
+            sidebarDepth: 1,    // optional, defaults to 1
+            children: [
+              '/tools/a-b-test',
+              '/tools/analytics',
+              '/tools/card-sorting',
+              '/tools/high-fidelity-prototype',
+              '/tools/low-fidelity-prototype',
+              '/tools/moderated-testing',
+              '/tools/sponsor-users',
+              '/tools/tree-testing',
+              '/tools/unmoderated-testing',
+            ]
+          },
         ]
       },
       '/further-reading',

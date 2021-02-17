@@ -9,13 +9,15 @@ meta:
 
 # Mind Map
 
-### _Phases:_ 🔎 🎨 Problem seeking, problem shaping   \|   _Focus:_ Empathize (problem seeking), diverge (problem shaping)
+### _Phases:_ 🔎 🎨 Problem seeking, problem shaping<br/> _Focus:_ Empathize (problem seeking), diverge (problem shaping)
 
+::: tip IN BRIEF
 **Time commitment:** 1-3 hours  
 **Difficulty:** Easy  
 **Materials needed:** Users or internal stakeholders, meeting space (physical or virtual), whiteboard/stickies (physical or virtual)  
 **Who should participate:** Everyone (including users!)  
 **Best for:** Quick, high-level collection of topics, keywords, challenges and feelings relevant to a problem
+:::
 
 ## About this tool
 

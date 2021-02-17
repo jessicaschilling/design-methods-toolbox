@@ -9,13 +9,15 @@ meta:
 
 # Collating, Clustering, and Voting
 
-### _Phase:_ 🎨 Problem shaping   \|   _Focus:_ Converge, align
+### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ Converge, align
 
+::: tip IN BRIEF
 **Time commitment:** A few minutes to a few hours, depending on complexity of material being evaluated  
 **Difficulty:** Moderate  
 **Materials needed:** Insights, problems or other items to be synthesized, meeting space (physical or virtual), voting mechanism if needed (physical dot stickers, virtual emoji voting, etc), participants from a variety of technical and cultural perspectives (the more of these, the more useful)  
 **Who should participate:** User experience designers, visual designers, product/project owners, community specialists, developers, and/or users  
 **Best for:** Synthesizing and ranking diverse information in order to enable decisions about next steps
+:::
 
 ## About this tool
 

@@ -9,13 +9,15 @@ meta:
 
 # Insight Statements
 
-### _Phase:_ 🎨  Problem shaping   \|   _Focus:_ Converge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Converge
 
+::: tip IN BRIEF
 **Time commitment:** 1-2 hours  
 **Difficulty:** Difficult  
 **Materials needed:** Items to consider (these could be research findings, brainstorm ideas, themes, etc)  
 **Who should participate:** User experience designers, visual designers, product/project owners, community specialists, developers  
 **Best for:** Finding and succinctly stating the primary guiding insights from a large body of research or divergent ideation
+:::
 
 ## About this tool
 

@@ -9,13 +9,15 @@ meta:
 
 # High Fidelity Prototype
 
-### _Phase:_ 🛠️  Problem solving   \|   _Focus:_ Prototype
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Prototype
 
+::: tip IN BRIEF
 **Time commitment:** 2 or more days, depending on complexity of prototype  
 **Difficulty:** Moderate/difficult  
 **Materials needed:** Prototyping tools (Sketch, InVision, Adobe XD, etc), feedback forum (physical or virtual)  
 **Who should participate:** User experience designers, visual designers, product/project owners, developers  
 **Best for:** Iterating on low-fidelity prototypes and preparing for user testing
+:::
 
 ## About this tool
 

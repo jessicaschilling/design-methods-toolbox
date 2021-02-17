@@ -9,13 +9,15 @@ meta:
 
 # Journey Map
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Empathize
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Empathize
 
+::: tip IN BRIEF
 **Time commitment:** 1 day (though allow time for iterations)  
 **Difficulty:** Easy/moderate  
 **Materials needed:** A collaborative space (physical or virtual), drawing or spreadsheet tools (stickies may be helpful for moving things around as the map develops)  
 **Who should participate:** User experience designers, project/product owners, developers, community specialists  
 **Best for:** Getting a bird's-eye view of the steps, sequences, frustrations and feelings that make up your user's interactions with your product
+:::
 
 ## About this tool
 

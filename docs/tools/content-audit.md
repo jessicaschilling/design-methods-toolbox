@@ -9,13 +9,15 @@ meta:
 
 # Content Audit
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Landscape
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Landscape
 
+::: tip IN BRIEF
 **Time commitment:** Varies by size of site, but relatively time-intensive  
 **Difficulty:** Easy  
 **Materials needed:** Website/app to audit, spreadsheet  
 **Who should participate:** Content strategists, project/product owners, information architects, anyone who likes to read  
 **Best for:** Evaluating the existing content landscape of a product in order to assess needs and next steps
+:::
 
 ## About this tool
 

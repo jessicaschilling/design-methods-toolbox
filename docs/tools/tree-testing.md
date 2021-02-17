@@ -9,13 +9,15 @@ meta:
 
 # Tree Testing
 
-### _Phase:_ 🛠️  Problem solving   \|   _Focus:_ Test
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Test
 
+::: tip IN BRIEF
 **Time commitment:** 30 minutes to 1 hour per user  
 **Difficulty:** Easy/moderate  
 **Materials needed:** Tree of hierarchical menu items, tasks for testers to execute, users, location (physical or virtual), interviewer/notetaker/notetaking tools (if moderated), testing mechanism/platform (if unmoderated)  
 **Who should participate:** User experience designers, information architects, product/project owners  
 **Best for:** Evaluating a product's navigational hierarchy
+:::
 
 ## About this tool
 

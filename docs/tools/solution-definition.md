@@ -9,13 +9,15 @@ meta:
 
 # Solution Definition
 
-### _Phase:_ 🎨  Problem shaping   \|   _Focus:_ Align
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Align
 
+::: tip IN BRIEF
 **Time commitment:** 2-4 hours  
 **Difficulty:** Difficult  
 **Materials needed:** Meeting space (physical or virtual), notetaking tools (physical or virtual)  
 **Who should participate:** Everyone on the product team  
 **Best for:** Capturing a decision on how to move from ideating to prototyping and testing, including a definition of success
+:::
 
 ## About this tool
 

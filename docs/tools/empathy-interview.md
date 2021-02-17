@@ -9,13 +9,15 @@ meta:
 
 # Empathy Interview
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Empathize
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Empathize
 
+::: tip IN BRIEF
 **Time commitment:** Varying according to breadth of information needed, but time-intensive due to needs of interviewing  
 **Difficulty:** Moderate  
 **Materials needed:** Goals for outcome, interview guide, users to interview, location (physical or virtual), interviewer, notetaker, notetaking tools  
 **Who should participate:** User experience designers, project/product owners, users, commmunity specialists  
 **Best for:** In-depth (but sometimes messy) insights on the human experience of the problem at hand
+:::
 
 ## About this tool
 

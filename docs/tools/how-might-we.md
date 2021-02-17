@@ -9,13 +9,15 @@ meta:
 
 # How Might We
 
-### _Phase:_ 🎨  Problem shaping   \|   _Focus:_ Diverge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Diverge
 
+::: tip IN BRIEF
 **Time commitment:** 1-2 hours  
 **Difficulty:** Easy  
 **Materials needed:** Meeting space (physical or virtual), whiteboard and stickies (physical or virtual), participants from a variety of technical and cultural perspectives (the more of these, the more useful)  
 **Who should participate:** User experience designers, product/project owners, developers, community specialists  
 **Best for:** Generating a number of ideas quickly without becoming too solution-focused too soon
+:::
 
 ## About this tool
 

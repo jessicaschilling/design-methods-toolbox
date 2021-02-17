@@ -9,13 +9,15 @@ meta:
 
 # Heuristic Evaluation
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Landscape
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Landscape
 
+::: tip IN BRIEF
 **Time commitment:** Varies by size of site, but relatively time-intensive  
 **Difficulty:** Low  
 **Materials needed:** Website/app to audit, qualitative/quantitative information about your users such as  [personas](personas.md) and usage metrics, spreadsheet  
 **Who should participate:** User experience designers, visual designers, project/product owners, developers  
 **Best for:** Gaining an initial view of a product's overall usability in order to assess needs and next steps
+:::
 
 ## About this tool
 

@@ -9,13 +9,15 @@ meta:
 
 # Five Whys
 
-### _Phase:_ 🎨  Problem shaping   \|   _Focus:_ Diverge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Diverge
 
+::: tip IN BRIEF
 **Time commitment:** A few minutes if integrated into another activity; 1 hour if a standalone activity  
 **Difficulty:** Easy  
 **Materials needed:** A problem or user behavior that needs to be examined in more depth  
 **Who should participate:** Anyone on the team (users, too!)  
 **Best for:** Digging into issues or behaviors that seem obvious or are lacking in detail
+:::
 
 ## About this tool
 

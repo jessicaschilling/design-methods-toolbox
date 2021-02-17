@@ -9,13 +9,15 @@ meta:
 
 # Crazy Eights
 
-### _Phase:_ 🎨  Problem shaping   \|   _Focus:_ Converge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Converge
 
+::: tip IN BRIEF
 **Time commitment:** 8 minutes  
 **Difficulty:** Easy  
 **Materials needed:** Meeting space (physical or virtual), sheets of paper in eight sections (physical or virtual), participants from a variety of technical and cultural perspectives (the more of these, the more useful)  
 **Who should participate:** User experience designers, visual designers, product/project owners, community specialists, developers, and/or users  
 **Best for:** Coming up with a number of diverse, early-stage ideas very quickly
+:::
 
 ## About this tool
 

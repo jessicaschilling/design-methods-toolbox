@@ -9,13 +9,15 @@ meta:
 
 # Principle Definition
 
-### _Phase:_ 🎨 Problem shaping   \|   _Focus:_ Converge
+### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ Converge
 
+::: tip IN BRIEF
 **Time commitment:** 1-2 hours  
 **Difficulty:** Moderate  
 **Materials needed:** Mid-stage ideas or insights (post-brainstorming or Crazy Eights, pre-solution alignment), meeting space (physical or virtual), whiteboard and stickies (physical or virtual), participants from a variety of technical and cultural perspectives (the more of these, the more useful)  
 **Who should participate:** User experience designers, product/project owners, community specialists, developers  
 **Best for:** Creating guardrails or a "north star" for further work that help keep future iterations consistent
+:::
 
 ## About this tool
 

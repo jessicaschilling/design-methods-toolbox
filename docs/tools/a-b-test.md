@@ -9,13 +9,15 @@ meta:
 
 # A/B test
 
-### _Phase:_ 🛠️  Problem Solving   \|   _Focus:_ Test
+### _Phase:_ 🛠️  Problem Solving<br/> _Focus:_ Test
 
+::: tip IN BRIEF
 **Time commitment:** A few hours to a day to create the test; time to test depends on number of participants and testing mechanism  
 **Difficulty:** Easy  
 **Materials needed:** Two (or more) versions of an artifact to be tested, test plan, users, interviewer/notetaker/notetaking tools (if moderated), testing mechanism/platform (if unmoderated)  
 **Who should participate:** User experience designers, visual designers, product/project owners  
 **Best for:** A quick means of choosing between two similar options when each is at a level of close or moderate detail
+:::
 
 ## About this tool
 

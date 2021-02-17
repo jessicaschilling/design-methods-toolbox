@@ -9,13 +9,15 @@ meta:
 
 # Unmoderated Testing
 
-### _Phase:_ 🛠️  Problem Solving   \|   _Focus:_ Test
+### _Phase:_ 🛠️  Problem Solving<br/> _Focus:_ Test
 
+::: tip IN BRIEF
 **Time commitment:** Varies widely according to test method, but always less time than moderated testing  
 **Difficulty:** Moderate  
 **Materials needed:** Goals for outcome, users to test, testing mechanism/platform  
 **Who should participate:** User experience designers, product/project owners  
 **Best for:** Gaining in-depth insights about a solution's effectiveness that cannot be gathered through passive/quantitative methods but may not require the rigor of moderated testing
+:::
 
 ## About this tool
 

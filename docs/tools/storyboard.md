@@ -9,13 +9,15 @@ meta:
 
 # Storyboard
 
-### _Phase:_ 🎨 Problem shaping   \|   _Focus:_ Converge
+### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ Converge
 
+::: tip IN BRIEF
 **Time commitment:** 2-4 hours  
 **Difficulty:** Easy  
 **Materials needed:** Meeting space (physical or virtual), whiteboard and stickies (physical or virtual), participants from a variety of technical and cultural perspectives (the more of these, the more useful)  
 **Who should participate:** User experience designers, visual designers, product/project owners, community specialists, developers  
 **Best for:** Creating a sequential narrative of how your user interacts with your product
+:::
 
 ## About this tool
 

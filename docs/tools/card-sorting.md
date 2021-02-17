@@ -9,13 +9,15 @@ meta:
 
 # Card Sorting
 
-### _Phase:_ 🛠️  Problem solving   \|   _Focus:_ Test
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Test
 
+::: tip IN BRIEF
 **Time commitment:** 1 hour per user  
 **Difficulty:** Easy (but consider difficulty of recruiting users)  
 **Materials needed:** A collection of content listed on cards, users, location (physical or virtual), interviewer/notetaker/notetaking tools (if moderated), testing mechanism/platform (if unmoderated)  
 **Who should participate:** User experience designers, users from a variety of technical and cultural perspectives (the more of these, the more useful)  
 **Best for:** Understanding how different types of users organize concepts and information
+:::
 
 ## About this tool
 

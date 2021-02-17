@@ -9,13 +9,15 @@ meta:
 
 # 🛠️ Sponsor users
 
-### *Phase:* 🛠️  Problem solving &nbsp;&nbsp;|&nbsp;&nbsp; *Focus:* Test
+### *Phase:* 🛠️  Problem solving<br/> *Focus:* Test
 
-**Time commitment:** Varies according to how many sponsor users must be recruited and how often their help is used <br/>
-**Difficulty:** Moderate <br/>
-**Materials needed:** Potential sponsor users from whom to draw; persistent test mechanism/platform for testers (pre-prod environment, InVision static link, etc), persistent venue for feedback from testers (physical or virtual) <br/>
-**Who should participate:** User experience designers, visual designers, product/project owners, community specialists, developers  <br/>
-**Best for:** Gathering ongoing feedback from individuals or groups closely aligned with your key user types or personas; having potential testers “on call” for when there may not be time for a full tester recruitment exercise <br/>
+::: tip IN BRIEF
+**Time commitment:** Varies according to how many sponsor users must be recruited and how often their help is used 
+**Difficulty:** Moderate 
+**Materials needed:** Potential sponsor users from whom to draw; persistent test mechanism/platform for testers (pre-prod environment, InVision static link, etc), persistent venue for feedback from testers (physical or virtual) 
+**Who should participate:** User experience designers, visual designers, product/project owners, community specialists, developers 
+**Best for:** Gathering ongoing feedback from individuals or groups closely aligned with your key user types or personas; having potential testers “on call” for when there may not be time for a full tester recruitment exercise
+:::
 
 ## About this tool
 While it’s always ideal to recruit best-fit participants for any user testing exercise, you may not always have the time, bandwidth or financial resources to do so. That’s where sponsor users come in: a select group of regular, engaged users who align with your key [personas](personas.md) and are willing to provide regular feedback on your product or service, either organically on their own accord or as a result of prompts you’ve given them. Think of them as user testers on retainer — and while they may not always be the perfect test bed for the things you need to test, you know that you can rely on them to provide feedback when you need it.

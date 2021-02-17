@@ -9,13 +9,15 @@ meta:
 
 # Analytics
 
-### _Phase:_ 🛠️  Problem solving   \|   _Focus:_ Test
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Test
 
+::: tip IN BRIEF
 **Time commitment:** A few hours  
 **Difficulty:** Easy/moderate  
 **Materials needed:** A site/application for analysis with analytics tools already enabled  
 **Who should participate:** User experience designers, product/project owners  
 **Best for:** Gaining insights from aggregate numeric data on clicks, traffic patterns, scrolling and similar user actions
+:::
 
 ## About this tool
 

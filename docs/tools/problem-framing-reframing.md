@@ -1,5 +1,5 @@
 ---
-title: Problem Framing & Reframing
+title: Problem framing & reframing
 lang: en-US
 description: Useful frameworks and methodologies for design strategy, research and testing
 meta:
@@ -7,15 +7,17 @@ meta:
     content: design, design thinking, UX, user experience, user research, user testing
 ---
 
-# Problem Framing & Reframing
+# Problem framing & reframing
 
-### _Phase:_ 🎨 Problem shaping   \|   _Focus:_ Converge
+### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ Converge
 
+::: tip IN BRIEF
 **Time commitment:** 1-2 hours  
 **Difficulty:** Moderate  
 **Materials needed:** Meeting space (physical or virtual), whiteboard and stickies (physical or virtual), participants from a variety of technical and cultural perspectives (the more of these, the more useful)  
 **Who should participate:** User experience designers, visual designers, product/project owners, community specialists, developers  
 **Best for:** Finding new ways to approach "unsolvable" problems
+:::
 
 ## About this tool
 

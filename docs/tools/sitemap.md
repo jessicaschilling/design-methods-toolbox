@@ -9,13 +9,15 @@ meta:
 
 # Sitemap
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Landscape
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Landscape
 
+::: tip IN BRIEF
 **Time commitment:** Varying according to size of site/app, but slightly time-intensive  
 **Difficulty:** Easy  
 **Materials needed:** Site/app to evaluate, diagramming tool (Mural, Omnigraffle, Visio, etc)  
 **Who should participate:** User experience designers, content strategists, information architects, project/product owners, anyone  
 **Best for:** Evaluating the existing navigational hierarchy of a product in order to assess needs and next steps
+:::
 
 ## About this tool
 

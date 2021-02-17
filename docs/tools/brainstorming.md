@@ -9,13 +9,15 @@ meta:
 
 # Brainstorming
 
-### _Phase:_ 🎨 Problem shaping   \|   _Focus:_ Diverge
+### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ Diverge
 
+::: tip IN BRIEF
 **Time commitment:** 1-2 hours  
 **Difficulty:** Easy  
 **Materials needed:** Meeting space (physical or virtual), whiteboard and stickies (physical or virtual)  
 **Who should participate:** Anyone on the team (users, too!)  
 **Best for:** Kicking off divergent thinking by accumulating many ideas quickly and providing material for later aggregation or consolidation
+:::
 
 ## About this tool
 

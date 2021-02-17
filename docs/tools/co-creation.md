@@ -9,13 +9,15 @@ meta:
 
 # Co-Creation
 
-### _Phase:_ 🎨 Problem shaping   \|   _Focus:_ Converge
+### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ Converge
 
+::: tip IN BRIEF
 **Time commitment:** 90 mins minimum (to account for level-setting)  
 **Difficulty:** Moderate  
 **Materials needed:** Meeting space (physical or virtual), working tools (this can vary depending on the type of co-creation and could be anything from a whiteboard and stickies to a code IDE), participants from a variety of technical and cultural perspectives (the more of these, the more useful)  
 **Who should participate:** User experience designers, visual designers, product/project owners, community specialists, developers, and/or users  
 **Best for:** Mid-stage synthesis and insights work that benefits from synchronous communication
+:::
 
 ## About this tool
 

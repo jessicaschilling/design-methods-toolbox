@@ -9,13 +9,15 @@ meta:
 
 # Secondary Research
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Landscape
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Landscape
 
+::: tip IN BRIEF
 **Time commitment:** Varying according to scope of research needed, but slightly time-intensive  
 **Difficulty:** Easy/medium  
 **Materials needed:** Good Google-fu and potentially licenses for similar/competing solutions to yours  
 **Who should participate:** User experience designers, project/product owners, anyone  
 **Best for:** A first-level investigation into the current state of a problem's landscape and the potential for product-market fit
+:::
 
 ## About this tool
 

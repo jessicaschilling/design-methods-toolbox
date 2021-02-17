@@ -9,13 +9,15 @@ meta:
 
 # Empathy map
 
-### _Phase:_ 🔎  Problem seeking   \|   _Focus:_ Empathize
+### _Phase:_ 🔎  Problem seeking<br/> _Focus:_ Empathize
 
+::: tip IN BRIEF
 **Time commitment:** 1/2 to 1 day (more if large sets of information to cull from)  
 **Difficulty:** Easy/moderate  
 **Materials needed:** Existing user insights gleaned from interviews or data-gathering, space (physical or virtual) for mapping, map template  
 **Who should participate:** User experience designers, project/product owners, commmunity specialists  
 **Best for:** Creating a structure for talking about users, which can then be used for [personas](personas.md) and other similar artifacts
+:::
 
 ## About this tool
 

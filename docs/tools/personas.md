@@ -9,13 +9,15 @@ meta:
 
 # Personas
 
-### _Phase:_ 🔎 Problem seeking   \|   _Focus:_ Synthesize
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Synthesize
 
+::: tip IN BRIEF
 _**Time commitment:**_ 1-2 days  
 _**Difficulty:**_ Medium  
 _**Materials needed:**_ Existing info on users' primary use cases, typical journeys, pain points, and ideal end states  
 _**Who should participate:**_ Users, user experience designers, product/project owners, community specialists  
 _**Best for:**_ Consolidating user discovery into easy-to-reference "cheat sheets"
+:::
 
 ## About this tool
 
