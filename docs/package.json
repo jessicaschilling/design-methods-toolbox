@@ -1,0 +1,19 @@
+{
+  "name": "design-methods-toolbox",
+  "version": "0.0.1",
+  "description": "Useful frameworks and methodologies for design strategy, research and testing",
+  "main": "index.js",
+  "authors": {
+    "name": "Jessica Schilling",
+    "email": "designmethodstoolbox@jessicaschilling.com"
+  },
+  "repository": "https://github.com/jessicaschilling/design-methods-toolbox/design-methods-toolbox",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
