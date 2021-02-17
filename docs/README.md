@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Home
 lang: en-US
 description: Useful frameworks and methodologies for design strategy, research and testing
 meta:
@@ -7,19 +7,17 @@ meta:
     content: design, design thinking, UX, user experience, user research, user testing
 ---
 
-# Design Methods Toolbox
+# Welcome!
+
+![Three design phases](/img/design-toolbox-header.png)
 
 > _There is no one method to follow to create perfect products. But there are many ways to increase the odds. One of them is to understand the reason for the tool in the first place. Deeply investigate what people are trying to get done and line up your solutions to match._
 
 — Indi Young, [Mental Models: Aligning Design Strategy with Human Behavior](https://www.amazon.com/Mental-Models-Aligning-Strategy-Behavior/dp/1933820063)
 
-## Welcome to the design methods toolbox!
+### About the Design Methods Toolbox
 
 This toolbox is an open-source reference intended to help you explore how doing design strategy, research and testing can improve your day-to-day work life — and help us all build better stuff for the users we're striving to serve.
-
-### In a hurry?
-
-**There's useful info below about this toolbox and an approach to design in general, but if you're in a hurry, just** [**go straight to the tools**](tools/) **and advice on when to use them.**
 
 ### What this toolbox is
 
@@ -27,23 +25,28 @@ This toolbox is an open-source reference intended to help you explore how doing 
 * Guidance on the amount of time, effort, artifacts and experience each tool requires, so you can determine whether you want to DIY, ask for help within your community or company, or bring in outside assistance
 * A call for you — whoever you are and whatever you might do — to add new tools, comment on existing ones, or suggest revisions!
 
-In particular, we want to optimize these tools for asynchronous/distributed orgs, because we have both special powers and special needs. For example, the _contextual inquiry_ tool is traditionally heavy on in-person work, calling for following the user around as they engage in day-to-day activity. That doesn't work for us in distributedland, so this toolbox provides modifications, optimizations, or just suggestions for tools that work better in our world.
+In particular, this toolbox aims to optimize these tools for asynchronous/distributed orgs, because async and distributed orgs have both special powers and special needs. For example, a tool like _contextual inquiry_ is traditionally heavy on in-person work, calling for following the user around as they engage in day-to-day activity. That doesn't work for us in distributedland, so this toolbox provides modifications, optimizations, or just suggestions for tools that work better in our world.
 
 ### What this toolbox isn't
 
-* A standard for how you _must_ do design strategy/research/testing at PL; it's a framework, not a religion. (In fact, if you don't like our phased approach, we've also added some notes on [how other orgs approach design phases, including design sprints](phases-and-sprints.md).)
+* A standard for how you _must_ do design strategy/research/testing; it's a framework, not a religion. (In fact, if you don't like our phased approach, we've also added some notes on [how others approach design phases, including design sprints](phases-and-sprints.md).)
 * A how-to for tactical _design implementation_: If you want to have someone make you a logo, poster, website or other visual design or front-end artifact, there are millions of folks out there who can help you with that.
-* A checklist for "do these things and you'll reach user-centered nirvana". Just like any other thing worth doing, design can be multivariate, frustrating or difficult at times! 
+* A checklist for "do these things and you'll reach user-centered nirvana." Just like any other thing worth doing, design can be multivariate, frustrating or difficult at times! 
 
 ### Our three-phase approach to design methods
 
-Inside this toolbox you'll find a wide range of [tools](tools/) — that's great! But it can be difficult to determine when to use what tool for the task at hand, so we've separated our approach into three _phases_: 🔎 **problem seeking**, 🎨 **problem shaping**, and 🛠️ **problem solving**. And, within each of those three phases are _areas of focus_ to help keep us, well, focused. Each tool in this toolbox is labeled with both a phase and an area of focus to help you determine where it fits into the overall design methods landscape.
+Inside this toolbox you'll find a wide range of [tools](tools/) — that's great! But it can be difficult to determine when to use what tool for the task at hand, so we've separated our approach into three _phases_: 
+- 🔎  **Problem seeking**
+- 🎨  **Problem shaping**
+- 🛠️  **Problem solving**
+
+And, within each of those three phases are _areas of focus_ to help keep us, well, focused. Each tool in this toolbox is labeled with both a phase and an area of focus to help you determine where it fits into the overall design methods landscape.
 
 _Important note:_ While the phases and foci below are in an order that often occurs naturally in the design process, don't be afraid to tackle these out of order — or, if you discover something in a "later" phase that has an effect on something that happened earlier, don't be afraid to go back and repeat or restart as necessary.
 
-(design phases image)
+![Three design phases](/img/design-phases.png)
 
-#### 🔎 **Problem seeking**
+### 🔎 **Problem seeking**
 
 _Understanding and defining the problem or opportunity — from the user's point of view, not the provider's._
 
@@ -51,7 +54,7 @@ _Understanding and defining the problem or opportunity — from the user's point
 * **Empathize:** Discover users' primary use cases, typical journeys, pain points, and ideal end states
 * **Synthesize:** Group users according to the most appropriate axes for the problem and use those groups for guidance going forward
 
-#### 🎨 **Problem shaping**
+### 🎨 **Problem shaping**
 
 _Revising, reframing or redefining the problem as necessary in order to ideate and iterate upon ideas for solutions._
 
@@ -59,7 +62,7 @@ _Revising, reframing or redefining the problem as necessary in order to ideate a
 * **Converge:** Find patterns, synthesize, find insights toward solutions or opportunities for change
 * **Align:** Decide on one (or several) directions for prototyping and testing and define success for each of them
 
-#### 🛠️ **Problem solving**
+### 🛠️ **Problem solving**
 
 _Building rough drafts of those solutions in order to test them on real humans, using the learnings to either return to earlier stages as needed or declare a solution ready for production-grade design and build._
 

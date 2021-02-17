@@ -9,7 +9,7 @@ meta:
 
 # How Might We
 
-### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Diverge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ [Diverge](/tools/#diverge)
 
 ::: tip IN BRIEF
 **Time commitment:** 1-2 hours  

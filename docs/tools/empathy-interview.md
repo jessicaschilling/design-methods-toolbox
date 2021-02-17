@@ -9,7 +9,7 @@ meta:
 
 # Empathy Interview
 
-### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Empathize
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ [Empathize](/tools/#empathize)
 
 ::: tip IN BRIEF
 **Time commitment:** Varying according to breadth of information needed, but time-intensive due to needs of interviewing  

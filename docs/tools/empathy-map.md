@@ -9,7 +9,7 @@ meta:
 
 # Empathy map
 
-### _Phase:_ 🔎  Problem seeking<br/> _Focus:_ Empathize
+### _Phase:_ 🔎  Problem seeking<br/> _Focus:_ [Empathize](/tools/#empathize)
 
 ::: tip IN BRIEF
 **Time commitment:** 1/2 to 1 day (more if large sets of information to cull from)  

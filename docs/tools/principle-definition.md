@@ -9,7 +9,7 @@ meta:
 
 # Principle Definition
 
-### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ Converge
+### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ [Converge](/tools/#converge)
 
 ::: tip IN BRIEF
 **Time commitment:** 1-2 hours  

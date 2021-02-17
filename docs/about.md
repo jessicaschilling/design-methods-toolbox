@@ -9,8 +9,25 @@ meta:
 
 # About this toolbox
 
-Jessica Schilling. I assembled this guide while doing UX and product strategy work at Protocol Labs, thanks for the open source.
+## In brief
 
-Here's the repo. If you find a link, please make a PR.
+> _A resource for builders and doers who want to design with intention._
 
-designmethodstoolbox@jessicaschilling.com
+This toolbox is an open-source reference intended to help you explore how doing design strategy, research and testing can improve your day-to-day work life — and help us all build better stuff for the users we're striving to serve. It includes a wide set of tools for _problem seeking_, _problem shaping_ and _problem solving_, with how-to summaries and resources for learning more.
+
+It was originally created as an in-house project for [Protocol Labs](https://protocol.ai), but they're a bunch of great folks who believe in open source.
+
+It's built in [Vuepress](https://vuepress.vuejs.org/) and deployed via [Netlify](https://designmethodstoolbox.netlify.app/). And [here's the repo.](https://github.com/jessicaschilling/design-methods-toolbox)
+
+## Who made this?
+[Jessica Schilling](https://www.jessicaschilling.com) started this project. It's open-source, so other people made it, too. Maybe even you!
+
+You can email Jessica at designmethodstoolbox@jessicaschilling.com.
+
+## Contributions welcome!
+
+Your experience and expertise should be reflected in this guide. Please [make a PR](https://github.com/jessicaschilling/design-methods-toolbox/pulls) with your changes! The more, the merrier.
+
+## License
+
+[GNU General Public License v3.0](LICENSE.md)

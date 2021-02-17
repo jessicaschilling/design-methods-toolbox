@@ -9,12 +9,12 @@ meta:
 
 # Further Reading
 
-This list is, by nature, woefully incomplete, because corralling reading resources is like trying to divert a fire hose — there will always be One More Thing to read and learn from. That said, if you've got resources (print, online or otherwise) that have helped you practice good design, **please submit a PR against this document** (including a link and brief description) so we can add your favorites, too. The more, the merrier!
+This list is, by nature, woefully incomplete, because corralling reading resources is like trying to divert a fire hose — there will always be One More Thing to read and learn from. That said, if you've got resources (print, online or otherwise) that have helped you practice good design, [please make a PR against this document](https://github.com/jessicaschilling/design-methods-toolbox/pulls) (including a link and brief description) so your favorites can get on the list, too. The more, the merrier!
 
 ## Other people's toolboxes
 
 * [**18F Methods**](https://methods.18f.gov/): 18F, the user experience agency internal to the U.S. federal government's General Services Administration, offers a card-based methods kit divided into four key phases (discover, decide, make, validate). Includes special attention to guidance specific to federal government regulations.
-* \*\*\*\*[**UXFrameworks.design Toolbox**](https://www.uxframeworks.design/frameworks/all-frameworks)**:** A collection of tools broken up into phases for research, synthesis, and ideation, many including helpful worksheets.
+* [**UXFrameworks.design Toolbox**](https://www.uxframeworks.design/frameworks/all-frameworks)**:** A collection of tools broken up into phases for research, synthesis, and ideation, many including helpful worksheets.
 * [**Design Kit**](http://www.designkit.org/methods): Created by commercial design agency IDEO, this card-based kit is separated into three broad phases (inspiration, ideation, implementation) and includes some very high-level methods for bringing design thinking into settings where it may not have been considered in the past. Note, though, that most methods assume in-person, synchronous settings.
 * [**Open Design Kit**](http://opendesignkit.org/): A four-phase (explore, define, make, validate), card-based toolbox specifically targeted for the needs of distributed teams — and open source to boot. (Sadly, activity in their repo seems to have declined as of late, but the methods are still useful!)
 * [**Mozilla Open Innovation Toolkit**](https://toolkit.mozilla.org/): A community-sourced toolbox for incorporating human-centered design into product development, particularly relating to open-source projects. This card-based kit offers time estimates and difficulty levels for various commonly used design thinking activities.

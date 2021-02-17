@@ -9,7 +9,7 @@ meta:
 
 # Primary Research
 
-### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Landscape
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ [Landscape](/tools/#landscape)
 
 ::: tip IN BRIEF
 **Time commitment:** Varying according to scope of research needed, but very time-intensive due to needs of interviewing  

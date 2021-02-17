@@ -9,7 +9,7 @@ meta:
 
 # A/B test
 
-### _Phase:_ 🛠️  Problem Solving<br/> _Focus:_ Test
+### _Phase:_ 🛠️  Problem Solving<br/> _Focus:_ [Test](/tools/#test)
 
 ::: tip IN BRIEF
 **Time commitment:** A few hours to a day to create the test; time to test depends on number of participants and testing mechanism  

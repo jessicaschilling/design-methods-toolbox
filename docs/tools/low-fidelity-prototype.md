@@ -9,7 +9,7 @@ meta:
 
 # Low Fidelity Prototype
 
-### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Prototype
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ [Prototype](/tools/#prototype)
 
 ::: tip IN BRIEF
 **Time commitment:** 1 or more days, depending on complexity of prototype  

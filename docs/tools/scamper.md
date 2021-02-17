@@ -7,9 +7,9 @@ meta:
     content: design, design thinking, UX, user experience, user research, user testing
 ---
 
-# Scamper
+# SCAMPER
 
-### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Diverge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ [Diverge](/tools/#diverge)
 
 ::: tip IN BRIEF
 **Time commitment:** 1-2 hours  

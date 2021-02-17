@@ -19,6 +19,8 @@ Your (and your project/team's) truth will probably lie somewhere in between. We'
 
 We've organized the [tools](tools/) in this toolbox within a framework of three main _phases_, each with several _areas of focus_. (You'll see that each tool indicates up front where it fits in within this framework.) Just to recap, "our" phases are as follows:
 
+![Three design phases](/img/design-phases.png)
+
 🔎 **Problem seeking**
 
 * **Landscape:** Research the current state of solutions (or lack thereof) from the user's perspective

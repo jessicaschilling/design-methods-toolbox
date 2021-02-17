@@ -9,7 +9,7 @@ meta:
 
 # Sitemap
 
-### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Landscape
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ [Landscape](/tools/#landscape)
 
 ::: tip IN BRIEF
 **Time commitment:** Varying according to size of site/app, but slightly time-intensive  

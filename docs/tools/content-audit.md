@@ -9,7 +9,7 @@ meta:
 
 # Content Audit
 
-### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Landscape
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ [Landscape](/tools/#landscape)
 
 ::: tip IN BRIEF
 **Time commitment:** Varies by size of site, but relatively time-intensive  

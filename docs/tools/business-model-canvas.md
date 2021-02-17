@@ -9,7 +9,7 @@ meta:
 
 # Business Model Canvas
 
-### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Converge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ [Converge](/tools/#converge)
 
 ::: tip IN BRIEF
 **Time commitment:** 2-3 hours  

@@ -7,9 +7,9 @@ meta:
     content: design, design thinking, UX, user experience, user research, user testing
 ---
 
-# Secondary Research
+# Secondary research
 
-### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Landscape
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ [Landscape](/tools/#landscape)
 
 ::: tip IN BRIEF
 **Time commitment:** Varying according to scope of research needed, but slightly time-intensive  

@@ -9,7 +9,7 @@ meta:
 
 # Collating, Clustering, and Voting
 
-### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ Converge, align
+### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ [Converge](/tools/#converge), align
 
 ::: tip IN BRIEF
 **Time commitment:** A few minutes to a few hours, depending on complexity of material being evaluated  

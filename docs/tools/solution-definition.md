@@ -9,7 +9,7 @@ meta:
 
 # Solution Definition
 
-### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Align
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ [Align](/tools/#align)
 
 ::: tip IN BRIEF
 **Time commitment:** 2-4 hours  

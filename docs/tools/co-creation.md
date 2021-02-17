@@ -9,7 +9,7 @@ meta:
 
 # Co-Creation
 
-### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ Converge
+### _Phase:_ 🎨 Problem shaping<br/> _Focus:_ [Converge](/tools/#converge)
 
 ::: tip IN BRIEF
 **Time commitment:** 90 mins minimum (to account for level-setting)  

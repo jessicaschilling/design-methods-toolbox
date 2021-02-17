@@ -9,7 +9,7 @@ meta:
 
 # Mind Map
 
-### _Phases:_ 🔎 🎨 Problem seeking, problem shaping<br/> _Focus:_ Empathize (problem seeking), diverge (problem shaping)
+### _Phases:_ 🔎 🎨 Problem seeking, problem shaping<br/> _Focus:_ [Empathize](/tools/#empathize) (problem seeking), diverge (problem shaping)
 
 ::: tip IN BRIEF
 **Time commitment:** 1-3 hours  

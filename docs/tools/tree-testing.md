@@ -9,7 +9,7 @@ meta:
 
 # Tree Testing
 
-### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Test
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ [Test](/tools/#test)
 
 ::: tip IN BRIEF
 **Time commitment:** 30 minutes to 1 hour per user  

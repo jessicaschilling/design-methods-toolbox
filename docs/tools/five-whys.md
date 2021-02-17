@@ -9,7 +9,7 @@ meta:
 
 # Five Whys
 
-### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ Diverge
+### _Phase:_ 🎨  Problem shaping<br/> _Focus:_ [Diverge](/tools/#diverge)
 
 ::: tip IN BRIEF
 **Time commitment:** A few minutes if integrated into another activity; 1 hour if a standalone activity  

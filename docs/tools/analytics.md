@@ -9,7 +9,7 @@ meta:
 
 # Analytics
 
-### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Test
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ [Test](/tools/#test)
 
 ::: tip IN BRIEF
 **Time commitment:** A few hours  

@@ -9,7 +9,7 @@ meta:
 
 # Moderated Testing
 
-### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Test
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ [Test](/tools/#test)
 
 ::: tip IN BRIEF
 **Time commitment:** Varies widely according to test method, but always more time than unmoderated testing  

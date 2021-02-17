@@ -9,7 +9,7 @@ meta:
 
 # Card Sorting
 
-### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ Test
+### _Phase:_ 🛠️  Problem solving<br/> _Focus:_ [Test](/tools/#test)
 
 ::: tip IN BRIEF
 **Time commitment:** 1 hour per user  

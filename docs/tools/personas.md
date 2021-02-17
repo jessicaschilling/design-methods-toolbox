@@ -9,7 +9,7 @@ meta:
 
 # Personas
 
-### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Synthesize
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ [Synthesize](/tools/#synthesize)
 
 ::: tip IN BRIEF
 _**Time commitment:**_ 1-2 days  

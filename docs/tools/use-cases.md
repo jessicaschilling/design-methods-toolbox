@@ -9,7 +9,7 @@ meta:
 
 # Use Cases
 
-### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ Empathize
+### _Phase:_ 🔎 Problem seeking<br/> _Focus:_ [Empathize](/tools/#empathize)
 
 ::: tip IN BRIEF
 **Time commitment:** 5-15 minutes per story  
