@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Design Methods Toolbox',
+  title: '🧰 Design Methods Toolbox',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
