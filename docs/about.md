@@ -15,7 +15,7 @@ meta:
 
 This toolbox is an open-source reference intended to help you explore how doing design strategy, research and testing can improve your day-to-day work life — and help us all build better stuff for the users we're striving to serve. It includes a wide set of tools for _problem seeking_, _problem shaping_ and _problem solving_, with how-to summaries and resources for learning more.
 
-It was originally created as an in-house project for [Protocol Labs](https://protocol.ai), but they're a bunch of great folks who believe in open source.
+It was originally created as an in-house project for [Protocol Labs](https://protocol.ai), but it seemed too useful to the wider community to keep as an internal resource — hence this site. Protocol Labs is a global, fully distributed, asynchronous [workplace](https://protocol.ai/join/) with a commitment to open-source practices, so that's why the methods in this toolbox are geared toward ways to work in public in a manner in which anyone, in any location or time zone, can fully participate and add value to the creative process. 
 
 It's built in [Vuepress](https://vuepress.vuejs.org/) and [deployed over IPFS](https://designmethodstoolbox.on.fleek.co/) via [Fleek](https://fleek.co/). Here's the [repo.](https://github.com/jessicaschilling/design-methods-toolbox)
 
