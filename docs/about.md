@@ -17,7 +17,7 @@ This toolbox is an open-source reference intended to help you explore how doing 
 
 It was originally created as an in-house project for [Protocol Labs](https://protocol.ai), but they're a bunch of great folks who believe in open source.
 
-It's built in [Vuepress](https://vuepress.vuejs.org/). Here's the [repo.](https://github.com/jessicaschilling/design-methods-toolbox)
+It's built in [Vuepress](https://vuepress.vuejs.org/) and [deployed over IPFS](https://designmethodstoolbox.on.fleek.co/) via [Fleek](https://fleek.co/). Here's the [repo.](https://github.com/jessicaschilling/design-methods-toolbox)
 
 ## Who made this?
 [Jessica Schilling](https://www.jessicaschilling.com) started this project. It's open-source, so other people made it, too. Maybe even you!
