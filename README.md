@@ -12,7 +12,7 @@ It was originally created as an in-house project for [Protocol Labs](https://pro
 
 **The best way to explore this toolbox is to visit its website, [designmethodstoolbox.com](https://designmethodstoolbox.com).**
 
-It's built in [Vuepress](https://vuepress.vuejs.org/) because Vuepress is nifty.
+It's built in [Vuepress](https://vuepress.vuejs.org/) and [deployed over IPFS](https://designmethodstoolbox.on.fleek.co/) using [Fleek](https://fleek.co/).
 
 ## Contributions welcome!
 
