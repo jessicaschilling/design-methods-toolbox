@@ -65,6 +65,7 @@ This list is, by nature, woefully incomplete, because corralling reading resourc
 * [Designing for Blockchain](https://medium.com/emerson-stone/designing-for-blockchain-f0e8c25997bd) - Kevin Fleming of Emerson Stone on what this may mean for designers
 * [Blockchain and Design](https://hackernoon.com/blockchain-and-design-4ae7ae1694bc) - interview with Matt Storus, lead designer of 21.co
 * [The UX of Offline First](https://medium.com/offline-camp/ux/home) - a collection of Medium articles about designing for the offline-first movement
+* [Proof of Usability Podcast: "Protocols are the ultimate hyper-object"](https://radiopublic.com/proof-of-usability-WoXqR4/s1!3bb7e) - Zach Herring's blockchain product design podcast, in an episode featuring Jessica Schilling and Jim "Cake" Lee of Protocol Labs
 
 ## Design and ethics
 
