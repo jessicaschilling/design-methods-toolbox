@@ -57,10 +57,10 @@ However, this approach isn't the only way to think about a phased approach to de
 ### Four phases
 
 * [PDCA](https://asq.org/quality-resources/pdca-cycle) methodology comes from the world of [kaizen](https://en.wikipedia.org/wiki/Kaizen) and actually dates back to the 1950s: _plan, do, check, act_
-* 18F says discover, decide, make, validate ... plus "fundamentals"
+* [18F](https://methods.18f.gov/) says discover, decide, make, validate ... plus "fundamentals"
 * The [OODA loop](https://en.wikipedia.org/wiki/OODA_loop) comes from the world of military strategy: _observe, orient, decide, act_
 * [Tomorrow Partners](https://tomorrowpartners.com/about) has a four-phase framework with a nice emphasis on where effort lies between research, design and development at different stages of the creation process: _learn, make, test, deliver_
-* [DEEPdt](https://www.deepdesign thinking.com/) uses four phases in a wheel of repetition as needed: _discover, empathize, experiment, produce_
+* [DEEPdt](https://www.deepdesignthinking.com/) uses four phases in a wheel of repetition as needed: _discover, empathize, experiment, produce_
 
 ### Five phases
 
