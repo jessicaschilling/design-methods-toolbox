@@ -56,6 +56,7 @@ This list is, by nature, woefully incomplete, because corralling reading resourc
 ## Design for the decentralized/distributed web
 
 * [Decentralization Off The Shelf: 7 Maxims](https://decentpatterns.xyz/files/DOTS_Report_7Maxims.pdf) - Seven core areas for improving decentralized projects and products in general, with a heavy emphasis on the role design will play as the dweb develops
+* [Decentralization Off The Shelf: Pattern Library](https://decentpatterns.xyz/library/) - Library of design patterns focusing on the unique challenges and quirks of the decentralized web
 * [Why design is the killer app for crypto](https://blog.coinbase.com/why-design-is-the-killer-app-for-crypto-dcb00d2b1fa6) - Coinbase designer Connie Yang on designing in a previously unworked space
 * [Blockchain Design Principles](https://medium.com/design-ibm/blockchain-design-principles-599c5c067b6e) -  IBM's Blockchain Design Team on the unique challenges of the medium
 * [The challenges of designing for blockchain: How I designed Swapy Exchange UX](https://medium.com/swapynetwork/the-challenges-of-designing-for-blockchain-how-i-designed-swapy-exchange-ux-537e33c27340) - Interesting thoughts on starting from scratch in a blockchain-specific design space
