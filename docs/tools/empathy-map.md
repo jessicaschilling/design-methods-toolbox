@@ -46,3 +46,4 @@ Additionally, a well-crafted empathy map has one additional benefit: Once you've
 * [Nielsen Norman Group empathy mapping how-to, including quadrant template](https://www.nngroup.com/articles/empathy-mapping/)
 * ["Empathy map canvas" applying concepts from the business model canvas method to the standard empathy map](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a)
 * [Empathy maps as "quick and dirty personas"](https://www.ibm.com/cloud/garage/practices/think/enterprise-design-thinking/practice_empathy_maps)
+* [General mapping best practices for product teams](https://miro.com/blog/mapping-product-teams-teresa-torres/)
