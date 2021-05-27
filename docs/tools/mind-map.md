@@ -44,3 +44,4 @@ You may also wish to consider variations on a traditional mind map:
 * [Guide to word clouds, including software to generate them](http://www.uxforthemasses.com/word-clouds/)
 * [Wikipedia on argument maps](https://en.wikipedia.org/wiki/Argument_map)
 * [Comparison of a variety of UX mapping methods from Nielsen Norman Group](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
+* [General mapping best practices for product teams](https://miro.com/blog/mapping-product-teams-teresa-torres/)
