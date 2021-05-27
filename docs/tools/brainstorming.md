@@ -37,3 +37,4 @@ Brainstorming is such a ubiquitous tool that it hardly needs explanation: Get a 
 * [Mashups as a form of brainstorming](https://www.designkit.org/methods/mash-ups)
 * [Feature-specific brainstorming, aka feature ideation](https://toolkit.mozilla.org/method/feature-ideation/)
 * [The "seven ways" approach](https://hbr.org/2019/03/the-right-way-to-lead-design-thinking)
+* [General mapping best practices for product teams](https://miro.com/blog/mapping-product-teams-teresa-torres/)
