@@ -34,5 +34,6 @@ While most of the elements of the SCAMPER framework have been explained elsewher
 ## Links and resources
 
 * [In-depth look at the SCAMPER technique](https://www.designorate.com/a-guide-to-the-scamper-technique-for-creative-thinking/)
+* [Step-by-step SCAMPER guide](https://www.post-it.com/3M/en_US/post-it/ideas/articles/scamper-method/)
 * [A few real-world SCAMPER examples](https://innovationmanagement.se/imtool-articles/scamper-your-way-to-greater-innovation/)
 * [SCAMPER random question tool](https://litemind.com/scamper-tool/)
