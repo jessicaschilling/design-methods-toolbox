@@ -72,6 +72,7 @@ This list is, by nature, woefully incomplete, because corralling reading resourc
 
 * [Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It](https://www.amazon.com/Ruined-Design-Designers-Destroyed-World/dp/1090532083): Teardown of how modern user experience design directly impacts long-term ethics in tech, and our responsibilities as designers to try to keep the industry from going awry
 * [Ethical OS](https://ethicalos.org): "a guide to anticipating the future impact of today's technology, or: how not to regret the things you will build" ... and in its own way, another sort of toolkit
+* [Cyberbullying: How to Identify and Handle Online Harassment](https://www.allconnect.com/blog/cyberbullying-how-to-identify-and-handle-online-harassment): Resources for identifying and dealing with online harassment
 
 ## Design and inclusivity
 
